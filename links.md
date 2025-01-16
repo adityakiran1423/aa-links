@@ -36,3 +36,7 @@ deleting node in fibonacci heaps : https://www.youtube.com/watch?v=XUAJFwCR4yI
 MODULE 5
 
 push relabel video : https://www.youtube.com/watch?v=xcqZyG9CEAw
+
+bipartite short : https://www.youtube.com/watch?v=HWHjQdNC-7Y
+
+bipartite 11 min : https://www.youtube.com/watch?v=OQ1-Eqhmu7A&t=229s
